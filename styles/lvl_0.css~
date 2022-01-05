@@ -1,0 +1,17 @@
+body {
+	background-color: grey;
+}
+
+h1 {
+	text-align: center;
+}
+
+address {
+
+}
+
+p {
+	font-family: serif;
+	font-family: 48pt;
+
+}
